@@ -14,4 +14,4 @@ Explore the rich landscape of the restaurant and food delivery industry with thi
 1. Data exploration and cleaning.
 2. Key metrics analysis (Restaurants_id, Restaurants_name, City, Location, Cuisines).
 3. Visualization of trends and patterns.
-4 .Insights into the restaurant and food delivery industry.
+4. Insights into the restaurant and food delivery industry.
