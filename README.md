@@ -6,12 +6,12 @@
 Explore the rich landscape of the restaurant and food delivery industry with this data analysis project centered around Zomato's dataset.
 
 # 🚀 Highlights:
-In-depth exploration of Zomato's dataset.
-Identification of key patterns and trends.
-Insights into popular cuisines, regional variations, and business dynamics.
+1. In-depth exploration of Zomato's dataset.
+2. Identification of key patterns and trends.
+3 .Insights into popular cuisines, regional variations, and business dynamics.
 
 # 🔍 Analysis Steps:
-Data exploration and cleaning.
-Key metrics analysis (Restaurants_id, Restaurants_name, City, Location, Cuisines).
-Visualization of trends and patterns.
-Insights into the restaurant and food delivery industry.
+1. Data exploration and cleaning.
+2. Key metrics analysis (Restaurants_id, Restaurants_name, City, Location, Cuisines).
+3. Visualization of trends and patterns.
+4 .Insights into the restaurant and food delivery industry.
