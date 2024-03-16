@@ -8,7 +8,7 @@ Explore the rich landscape of the restaurant and food delivery industry with thi
 # 🚀 Highlights:
 1. In-depth exploration of Zomato's dataset.
 2. Identification of key patterns and trends.
-3 .Insights into popular cuisines, regional variations, and business dynamics.
+3. Insights into popular cuisines, regional variations, and business dynamics.
 
 # 🔍 Analysis Steps:
 1. Data exploration and cleaning.
